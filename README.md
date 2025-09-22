@@ -4,7 +4,7 @@
 
 ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://github.com/user-attachments/assets/64542340-60fb-48d2-946d-324180ca67ad)
 
-![Stackoverflow]([https://github.com/user-attachments/assets/64542340-60fb-48d2-946d-324180ca67ad](https://stackexchange.com/users/flair/2545071.png))
+![Stackoverflow](https://github.com/user-attachments/assets/64542340-60fb-48d2-946d-324180ca67ad](https://stackexchange.com/users/flair/2545071.png)
 
 - 💬 Ask me about WSL
 
