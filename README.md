@@ -4,6 +4,8 @@
 
 ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://github.com/user-attachments/assets/64542340-60fb-48d2-946d-324180ca67ad)
 
+- 💬 Ask me about WSL
+
 <!--
 **crramirez/crramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
